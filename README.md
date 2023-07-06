@@ -1,5 +1,5 @@
 # Starting with blockchain
-In this project, we learn how to create a contract with solidity and use it in a simple website with React.
+In this project, we learned how to create a contract with solidity and use it in a simple website with React.
 
 ## Technologies:
 - Solidity-Ethereum
